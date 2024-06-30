@@ -1,2 +1,2 @@
 <p>bla</p>
-<em>voila</em>
+<em><strong>voila</strong></em>
