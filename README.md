@@ -1,3 +1,3 @@
 
-<em><strong>voila</strong></em>
+<strong>voila</strong>
 <p>voila</p>
